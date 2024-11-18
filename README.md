@@ -59,6 +59,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:
 * [http://crossfade.io](http://crossfade.io/) : Allows you to mix and match videos and change their audios, etc.
 * [https://cvmkr.com](https://cvmkr.com/) : Create beautiful, professional resumes in minutes, free. :page_facing_up:
+* [https://www.selfcv.com](https://www.selfcv.com) Build professional, ATS-friendly resumes and cover letters effortlessly with customizable templates.
 * [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can’t finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.
 * [https://www.calligraphr.com](https://www.calligraphr.com/) : Transform your handwriting or calligraphy into a font! Creating your own font has never been easier. With your own font you can create genuine personal designs and calligraphic artwork.
 * [https://www.canva.com](https://www.canva.com/) : Amazingly Simple Graphic Design Software.
