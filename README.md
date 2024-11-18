@@ -59,7 +59,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:
 * [http://crossfade.io](http://crossfade.io/) : Allows you to mix and match videos and change their audios, etc.
 * [https://cvmkr.com](https://cvmkr.com/) : Create beautiful, professional resumes in minutes, free. :page_facing_up:
-* [https://www.selfcv.com](https://www.selfcv.com) Build professional, ATS-friendly resumes and cover letters effortlessly with customizable templates.
 * [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can’t finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.
 * [https://www.calligraphr.com](https://www.calligraphr.com/) : Transform your handwriting or calligraphy into a font! Creating your own font has never been easier. With your own font you can create genuine personal designs and calligraphic artwork.
 * [https://www.canva.com](https://www.canva.com/) : Amazingly Simple Graphic Design Software.
@@ -347,6 +346,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
 * [https://send-anywhere.com](https://send-anywhere.com/) : Send whatever you want, wherever you want. :arrow_up:
+* [https://www.selfcv.com](https://www.selfcv.com) Build professional, ATS-friendly resumes and cover letters effortlessly with customizable templates.
 * [http://www.stolencamerafinder.com](http://www.stolencamerafinder.com/) : Use the serial number stored in your photos to search the web for other photos taken with the same camera.
 * [https://smallpdf.com](https://smallpdf.com/) : Convert PDF to JPG,  Excel, Word, unlock, merge and other cool options. Convert PDF to JPG,  Excel, Word, unlock, merge and other cool options. 
 * [http://shelterpups.com](http://shelterpups.com/) : Send a picture of your dog or cat and they'll send you a stuffed animal that looks just like it. :dog:
